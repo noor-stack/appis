@@ -44,13 +44,12 @@ requests==2.22.0
 requests-unixsocket==0.2.0
 SecretStorage==2.3.1
 simplejson==3.16.0
-sip==4.19.21
+
 six==1.14.0
 soupsieve==2.3.1
 sqlparse==0.4.2
 systemd-python==234
-ubuntu-advantage-tools==27.4
-ubuntu-drivers-common==0.0.0
+
 ufw==0.36
 unattended-upgrades==0.1
 urllib3==1.25.8
